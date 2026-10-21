@@ -25,4 +25,3 @@ VERIFICANDO OS DADOS - TechSales.sql: Script para validação dos registros inse
 🛠️ Tecnologias:
 
 - Microsoft SQL Server
-- T-SQL
